@@ -1,0 +1,10 @@
+/*BEGIN PS4 Controller Styling*/
+.controller.ds4 {
+    background: url(Prototype.png);
+    height: 700px;
+    width: 1200px;
+    /*    margin-left: -403px;
+        margin-top: -280px;*/
+}
+
+/*END PS4 White Controller Styling*/
